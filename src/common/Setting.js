@@ -5,6 +5,10 @@ export const Settings={
         speed: 500,
         slidesToShow: 6,
         slidesToScroll: 3,
+        // autoplay:true,
+        // speed: 10000,
+        // autoplaySpeed: 10000,
+        // cssEase: "linear",
 
         responsive: [
             {
